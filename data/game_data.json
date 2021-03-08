@@ -1,0 +1,37 @@
+{
+  "characters": [
+    {
+      "Elilka": {
+        "gold": 25,
+        "health": 100,
+        "level": 1,
+        "race": "elf"
+      }
+    },
+    {
+      "Azznostic": {
+        "gold": 25,
+        "health": 100,
+        "level": 1,
+        "race": "goblin"
+      }
+    }
+  ],
+  "exists_error": "That character doesn't exist.",
+  "game_error": "An error has occurred.",
+  "input_error": "Please select a valid option from the menu.",
+  "login": "Please login with your character name: ",
+  "monsters": [
+    {
+      "Taro": {
+        "class": "Red Dragon",
+        "gold": 100,
+        "health": 1000,
+        "level": 99,
+        "race": "Dragon"
+      }
+    }
+  ],
+  "quit": "Thanks for playing! Goodbye!",
+  "welcome": "Welcome to EsCape Sequence!"
+}
